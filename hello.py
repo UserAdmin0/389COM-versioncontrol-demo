@@ -1,1 +1,1 @@
-print("Hello from version control!")
+print("Hello from GitHub edit!")
